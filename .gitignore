@@ -1,0 +1,3 @@
+venv
+cinema/migrations
+db.sqlite3
